@@ -1,11 +1,13 @@
 Computer Vision - CSE440 (Spring 2018)
+
 Indian Institute of Information Technology, Sri City (IIITS)
+
 Instructor: Dr. Shiv Ram Dubey
 
 Previous Version: Spring 2017
 
-
 Class time: Tuesday, Thursday 12.00 noon-1.30 pm  
+
 Class location: 304, IFMR Building
 
 Overview: The goal of computer vision is to compute properties of the three-dimensional world from digital images. Problems in this field include reconstructing the 3D shape of an environment, determining how things are moving, and recognizing people and objects and their activities, all through analysis of images and videos. This course will provide an introduction to computer vision, with topics including image formation, feature detection, motion estimation, image mosaics, and object and face detection and recognition. Applications of these techniques include building 3D maps, creating virtual characters, organizing photo and video databases, human computer interaction, video surveillance, automatic vehicle navigation, and mobile computer vision. In this course, student will implement several computer vision algorithms throughout the semester.
